@@ -1,0 +1,10 @@
+node_modules/
+statplotter.py
+dist/
+assets/
+package-lock.json
+
+src/config.ts
+src/services/processVideo.ts
+src/migration.ts
+src/test.ts
